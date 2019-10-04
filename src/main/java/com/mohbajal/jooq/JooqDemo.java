@@ -1,4 +1,4 @@
-package com.mohbajal.joos;
+package com.mohbajal.jooq;
 
 public class JooqDemo {
 }
